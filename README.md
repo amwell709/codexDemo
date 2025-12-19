@@ -18,4 +18,5 @@ No-backend Kanban board for developers. Pure HTML/CSS/JS, plus a tiny Python sta
 python3 serve.py
 # Then open http://localhost:8000/index.html
 ```
-QA test
+QA test instructions:
+
